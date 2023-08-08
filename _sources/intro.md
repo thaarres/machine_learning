@@ -1,11 +1,8 @@
-# Welcome to your Jupyter Book
+# Machine Learning (in physics)
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Welcome to this introductionary course on Machine Learning (ML) in physics! This course is structured as a set of three one-hour long lectures, and the goal is to give students the necessary tools to apply Machine Learning to particle physics problems.
 
-Check out the content pages bundled with this sample book to see more.
+The lecture is a mixture of slides and coding exercises.
 
 ```{tableofcontents}
 ```
